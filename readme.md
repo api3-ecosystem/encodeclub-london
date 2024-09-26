@@ -7,7 +7,7 @@ We are pleased to share that API3 will be offering a total of $3000 USD value in
 
 API3 dAPI price feeds and OEV are available on 37 chains across the EVM ecosystem.
 
-### :trophy: Best implementation of the OEV network liquidator or liquidation tools: Up to $3000 API3 between a max of 4 winners 
+### :trophy: Best implementation of the OEV network liquidator or liquidation tools: Up to $3000 API3 between a max of 6 winners 
 
 - 🥇 2 times $1000 per team (Utilizing API3's OEV)
 - 🥈 4 times $250 per team (Utilizing API3 Price Feeds)
