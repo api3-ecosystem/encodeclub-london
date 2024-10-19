@@ -66,7 +66,8 @@ https://github.com/api3dao/oev-searcher-starter
 - Full OEV Searcher Bot (in depth)
 https://github.com/api3dao/oev-orbit-bot-example
 
-
+- Deploy your own lending dapp, complete with liquidation scripts
+https://github.com/billyjitsu/aave-v2-cli-encode
 
 # Community link
 
