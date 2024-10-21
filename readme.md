@@ -51,6 +51,8 @@ More reading on API3:
 - [Read a dAPI value](https://docs.api3.org/guides/dapis/subscribing-to-dapis/)
 - [Feed Reader example](https://github.com/api3-ecosystem/api3-dapi-workshop)
 
+- [Video workshop of adaptors](https://www.youtube.com/live/1_qKvEYHk0I?si=W8UAgChwpPn7CPew&t=1619)
+
 ### Ideas
 Manage a stable coin using our oracles
 UNIQUE ideas using a borrow/lending dapp
@@ -62,6 +64,8 @@ Links to different repos for examples and help.
 
 - OEV Searcher Starter Repo
 https://github.com/api3dao/oev-searcher-starter
+
+- - [Video walkthrough](https://www.youtube.com/watch?v=m-xJQO4mS6s&t=124s)
 
 - Full OEV Searcher Bot (in depth)
 https://github.com/api3dao/oev-orbit-bot-example
